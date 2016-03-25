@@ -1,0 +1,13 @@
+How long did you spend working on this project?
+- About an hour.
+
+What was the most rewarding challenge you conquered?
+- Learning how to call a class function from an instance function as well as getting the inject function working properly
+
+What two additional features did you build? Why?
+  1. New public method for Customers: purchases. Outputs the name of every item purchased by the customer. Useful for customers to review their order history.
+  2. New public method for Customers: total_spent. Returns the total amount of money this customer has spent. Useful for customers to track their budget.
+
+Where do you still have room to grow?
+- More familiarity with Ruby functions. I still need to reference documentation for pretty basic things like adding to arrays or what the correct syntax is for 
+looping over an array etc. Should come with more practice.
